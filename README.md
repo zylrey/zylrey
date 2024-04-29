@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **.NET Systems**
 
-- 🌱 I’m currently learning **Devexpress**
-
 - 👨‍💻 All of my projects are available at [https://github.com/zylrey](https://github.com/zylrey)
 
 - 📝 I regularly write articles on [https://github.com/zylrey](https://github.com/zylrey)
